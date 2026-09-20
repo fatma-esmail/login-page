@@ -2,11 +2,9 @@
   box-sizing: border-box;
 }
 
-html, body {
-  height: 100%;
-  margin: 0;
-  padding: 0;
-  overflow: hidden; 
+html{
+  min-height: 100%;
+  background: url('forest.jpg') no-repeat center/cover;
 }
 
 
